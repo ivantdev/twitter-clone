@@ -1,2 +1,2 @@
 # twitter-clone
-parctice frontend / twitter clone
+parctice frontend / twitter clone responsive
